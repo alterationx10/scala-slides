@@ -1,0 +1,7 @@
+.bsp
+.metals
+.scala-build
+.vscode
+node_modules
+build
+slides-scala.md
