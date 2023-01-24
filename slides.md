@@ -16,7 +16,7 @@ Repository: https://github.com/alterationx10/scala-slides
 
 GitHub Pages: https://alterationx10.github.io/scala-slides
 
-GitHub Template: https://alterationx10.github.io/scala-slides-template
+GitHub Template: https://github.com/alterationx10/scala-slides-template
 
 ---
 
